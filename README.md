@@ -1,1 +1,0 @@
-# Voting_App_Deployment_On_K8s
